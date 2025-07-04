@@ -1,5 +1,5 @@
-1. 더블점프
--BP_ThirdPersonCharacter 함수 추가
+1. 더블점프 멀티 작업
+-BP_ThirdPersonCharacter 함수, 커스텀 이벤트 추가
 -flip 애니메이션
 
 2. 양쪽 벽 만들고 카메라 고정
@@ -7,7 +7,7 @@
 	-Camera Input 삭제
 	-CameraBoom 컴포넌트 수정
 
-3.UI 멀티 작업. 
+3.UI 멀티 작업
 -HUD, GameState, PlayerState, GameMode
 
 
