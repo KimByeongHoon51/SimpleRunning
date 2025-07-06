@@ -10,11 +10,22 @@
 3.UI 멀티 작업
 -HUD, GameState, PlayerState, GameMode
 
+GameState
+- Ready, Play, End 관리
+- TotalDeltaSeconds 관리
 
 - HUDWidget에 CountDown 만들기
 	- 플레이어가 일정 시간 뒤에 출발할 수 있도록
 
+PlayerState
+- Win, Lose 관리
+- Detact Winner 관리
+
 4. 결과창
 -Finish Line과 오버랩 되면 PlayerState에 승자, 패자 정보 전달 및 GameMode에 Game State가 End로전달
 - Finish Line은 GameMode와 연결
+
+
+
+
 
