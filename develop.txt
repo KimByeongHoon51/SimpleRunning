@@ -25,6 +25,10 @@ PlayerState
 -Finish Line과 오버랩 되면 PlayerState에 승자, 패자 정보 전달 및 GameMode에 Game State가 End로전달
 - Finish Line은 GameMode와 연결
 
+5. 배치할 때 바닥의 x축이 양수가 되도록
+-전체적인 UI, 배경음, 효과음.
+-nametag과 nickname 연동.
+
 
 
 
